@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"zid16-18-12-u-sa_motor\startup_stm32f103xb.o"
+"zid16-18-12-u-sa_motor\main.o"
+"zid16-18-12-u-sa_motor\gpio.o"
+"zid16-18-12-u-sa_motor\usart.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_it.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_msp.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_gpio_ex.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_tim.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_tim_ex.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_uart.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_rcc.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_rcc_ex.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_gpio.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_dma.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_cortex.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_pwr.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_flash.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_flash_ex.o"
+"zid16-18-12-u-sa_motor\stm32f1xx_hal_exti.o"
+"zid16-18-12-u-sa_motor\system_stm32f1xx.o"
+--strict --scatter "ZID16-18-12-U-SA_motor\ZID16-18-12-U-SA_motor.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "ZID16-18-12-U-SA_motor.map" -o ZID16-18-12-U-SA_motor\ZID16-18-12-U-SA_motor.axf
