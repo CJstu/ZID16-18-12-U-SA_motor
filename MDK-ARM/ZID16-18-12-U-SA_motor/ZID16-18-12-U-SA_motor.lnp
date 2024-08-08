@@ -20,6 +20,7 @@
 "zid16-18-12-u-sa_motor\stm32f1xx_hal_flash_ex.o"
 "zid16-18-12-u-sa_motor\stm32f1xx_hal_exti.o"
 "zid16-18-12-u-sa_motor\system_stm32f1xx.o"
+"zid16-18-12-u-sa_motor\bsp_usart.o"
 --strict --scatter "ZID16-18-12-U-SA_motor\ZID16-18-12-U-SA_motor.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

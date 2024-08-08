@@ -101,6 +101,7 @@ int main(void)
     /* USER CODE BEGIN 3 */
     HAL_Delay(1000);
     HAL_GPIO_TogglePin(TLED_GPIO_Port,TLED_Pin);
+    Printf(USART1,"Hello World!\n");
     HAL_Delay(1000);
   }
   /* USER CODE END 3 */

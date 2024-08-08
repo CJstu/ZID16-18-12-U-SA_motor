@@ -8,6 +8,8 @@
                 "e:\\32_workspace\\ZID16-18-12-U-SA_motor\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
                 "e:\\32_workspace\\ZID16-18-12-U-SA_motor\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
                 "e:\\32_workspace\\ZID16-18-12-U-SA_motor\\Drivers\\CMSIS\\Include",
+                "e:\\32_workspace\\ZID16-18-12-U-SA_motor\\Bsp",
+                "e:\\32_workspace\\ZID16-18-12-U-SA_motor\\App",
                 "E:\\soft\\kaifa\\armfire\\MDK\\Core\\ARM\\ARMCC\\include",
                 "E:\\soft\\kaifa\\armfire\\MDK\\Core\\ARM\\ARMCC\\include\\arm_linux",
                 "E:\\soft\\kaifa\\armfire\\MDK\\Core\\ARM\\ARMCC\\include\\arm_linux_compat",

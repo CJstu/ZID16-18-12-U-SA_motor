@@ -27,3 +27,9 @@ zid16-18-12-u-sa_motor\gpio.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal
 zid16-18-12-u-sa_motor\gpio.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 zid16-18-12-u-sa_motor\gpio.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
 zid16-18-12-u-sa_motor\gpio.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+zid16-18-12-u-sa_motor\gpio.o: ..\Bsp\Bsp_usart.h
+zid16-18-12-u-sa_motor\gpio.o: ../Core/Inc/main.h
+zid16-18-12-u-sa_motor\gpio.o: ../Core/Inc/usart.h
+zid16-18-12-u-sa_motor\gpio.o: E:\soft\kaifa\armfire\MDK\Core\ARM\ARMCC\Bin\..\include\stdio.h
+zid16-18-12-u-sa_motor\gpio.o: E:\soft\kaifa\armfire\MDK\Core\ARM\ARMCC\Bin\..\include\stdarg.h
+zid16-18-12-u-sa_motor\gpio.o: E:\soft\kaifa\armfire\MDK\Core\ARM\ARMCC\Bin\..\include\string.h
